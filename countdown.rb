@@ -3,6 +3,6 @@
 def countdown
   while #{x} >0
     puts "HAPPY NEW YEAR"
-    until #{X} ==0      
+    until #{X} ==0
     end
 end
